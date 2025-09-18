@@ -1,8 +1,8 @@
-# Online Üretici Yapay Zeka, Doğal Dil İşleme ve Büyük Dil Modelleri Kursu - 20 Eylül 2025
+# Online Üretici Yapay Zeka, Doğal Dil İşleme ve Büyük Dil Modelleri Kursu - 22 Kasım 2025
 
 
 + Kurs __[C ve Sistem Programcıları Derneği](http://www.csystem.org/)__ tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
-+ Kurs __20 Eylül 2025__ tarihinde başlayacaktır.
++ Kurs __22 Kasım 2025__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi __350__ saattir. 
