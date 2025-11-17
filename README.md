@@ -7,7 +7,7 @@
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi __350__ saattir. 
 + Dersler __Cumartesi - Pazar__ günleri __17:00-21:00__ saatleri arasında __4__'er saat __(haftada 8  saat)__ yapılacaktır. 
-+ Kursumuzun toplam ücreti  KDV dahil __87500 TL__'dir (Peşin ödemede __70000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __72000 TL__'dir (Peşin ödemede __59000  TL__ ’dir). Kurs ücreti peşin ya da __3__ taksit olarak ödenebilir.
++ Kursumuzun toplam ücreti  KDV dahil __87.500 TL__'dir (Peşin ödemede __70.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __72.000 TL__'dir (Peşin ödemede __59.000  TL__ ’dir). Kurs ücreti peşin ya da __3__ taksit olarak ödenebilir.
 
 
 ## Kursla ilgili bağlantılar
