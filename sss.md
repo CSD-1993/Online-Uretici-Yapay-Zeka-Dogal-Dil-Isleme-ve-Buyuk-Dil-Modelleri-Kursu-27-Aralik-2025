@@ -29,7 +29,7 @@ Aşağıda __Kaan Aslan__ tarafından verilen __Online Üretici Yapay Zeka Doğa
 ### Dersleri kayıt edebilir miyim?
 + Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
 
-### Daha önce C ve Sistem Programcıları Derneğinde Python kursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
+### Daha önce C ve Sistem Programcıları Derneğinde aynı kursa katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
 + Hayır. Ancak __C ve Sistem Programcıları Derneğinde__ düzenlenmekte olan örgün kurslara tekrar amaçlı katılabilirsiniz.
 
 ### Kurs bitiminde sertifika alabilecek miyim?
